@@ -1,0 +1,108 @@
+body { 
+    background-color: grey;
+}
+
+#header {
+    height: 45px;
+    border: solid;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    position: absolute;
+    color: grey;
+    left: 25%;
+    right: 25%;
+    top: 3%;
+    text-align: center;
+}
+
+#nav {
+    height: 45px;
+    border: solid;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    position: absolute;
+    color: grey;
+    left: 25%;
+    right: 25%;
+    top: 85px;
+    text-align: center;
+}
+
+section {
+    height: 255px;
+    width: 355px;
+    border: solid;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    position: absolute;
+    color: grey;
+    left: 25%;
+    right: 25%;
+    top: 150px;
+    text-align: center;
+}
+
+#article {
+    height: 185px;
+    width: 265px;
+    border: solid;
+    border-color: grey;
+    background-color: grey;
+    position: relative;
+    color: white;
+    left: 12%;
+    top: 6%;
+}
+
+#hs {
+    height: 35px;
+    width: 200px;
+    border: solid;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    color: grey;
+    position: relative;
+    top: 5%;
+    left: 27px;
+
+}
+
+#p {
+    height: 35px;
+    width: 200px;
+    border: solid;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    color: grey;
+    position: relative;
+    top: 25%;
+    left: 27px; 
+}
+
+aside {
+    height: 255px;
+    width: 355px;
+    border: solid;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    position: absolute;
+    color: grey;
+    right: 25%;
+    top: 150px;
+    text-align: center;
+
+}
+
+footer {
+    height: 45px;
+    border: solid;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    position: absolute;
+    color: grey;
+    left: 25%;
+    right: 25%;
+    bottom: 37%;
+    text-align: center;
+
+}
